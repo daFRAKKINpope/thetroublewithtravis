@@ -38,6 +38,7 @@ title:  "$TITLE"
 date:   $DATETIME
 ---
 
+{% comment %}
 Welcome to your new post! Here are some tips and tricks for using **Markdown** and **Jekyll code snippets** effectively.
 
 ## 📌 Code Snippets in Jekyll
@@ -83,6 +84,7 @@ git add "$POST_PATH"
 git commit -m "Add new post: $TITLE"
 git push
 \`\`\`
+{% endcomment $}
 EOF
 
 # Open the file

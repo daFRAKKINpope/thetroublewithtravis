@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: The Trouble With Travis
+email: admin@thetroublewithtravis.com
 description: >- # this means to ignore newlines until "baseurl:"
   An epic blog that details some guy named Travis' observations on life as he hits every bush, and parked car on the road.
   Warning: Dark mode extention recommended.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.thetroublewithtravis.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: I don't have twitter.
+github_username:  daFRAKKINpope
 
 # Build settings
 theme: minima
@@ -34,6 +34,10 @@ minima:
   skin: dark
 plugins:
   - jekyll-feed
+
+header_pages:
+  - about.md
+  - annual_albums.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
