@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Trouble with Travis</title>
-    <link>https://www.thetroublewithtravis.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on The Trouble with Travis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 15 Nov 2025 20:16:04 -0600</lastBuildDate><atom:link href="https://www.thetroublewithtravis.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Nov 2025 20:16:04 -0600</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Annual Albums</title>
-      <link>https://www.thetroublewithtravis.com/posts/annual_albums/</link>
+      <link>http://localhost:1313/posts/annual_albums/</link>
       <pubDate>Sat, 15 Nov 2025 20:16:04 -0600</pubDate>
       
-      <guid>https://www.thetroublewithtravis.com/posts/annual_albums/</guid>
+      <guid>http://localhost:1313/posts/annual_albums/</guid>
       
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Since 2014 I&amp;rsquo;ve been keeping a cronical of albums. This is typically music that I find during that year, or that was relevant to me in some way personally. This page serves as a cronical of those albums so the songs are not lost. As a rule, album titles and songs are locked after the years end.&lt;/p&gt;
@@ -41,10 +41,10 @@
     
     <item>
       <title>Fuck Wells Fargo</title>
-      <link>https://www.thetroublewithtravis.com/posts/fuck_wells_fargo/</link>
+      <link>http://localhost:1313/posts/fuck_wells_fargo/</link>
       <pubDate>Fri, 21 Jul 2023 20:25:01 -0600</pubDate>
       
-      <guid>https://www.thetroublewithtravis.com/posts/fuck_wells_fargo/</guid>
+      <guid>http://localhost:1313/posts/fuck_wells_fargo/</guid>
       
       <description>&lt;p&gt;Once upon a time, I was very young.  I got a job.  That job asked me to get a bank so they could deposit their checks directly to me.  Young, independent, and so very sure of myself I walked into a Wells Fargo.  They opened a checking account for me, and everything was fine.  The job didn&amp;rsquo;t last long.  I counted every penny as every penny was precious.&lt;/p&gt;
 &lt;p&gt;So it was really weird when I checked my account and it was over drafted by $100 dollars.  $100 dollars I had no way to pay back.  Wells Fargo told me I had ten dollars.  That I&amp;rsquo;d spent seven on cigarettes.  I then spent twenty dollars at something called a &amp;rsquo;treat center&amp;rsquo;.  Then I&amp;rsquo;d spent two dollars for delicious beverage.  I didn&amp;rsquo;t have enough money for the treat center, then I didn&amp;rsquo;t have enough money for the delicious beverage, so they&amp;rsquo;d charged me two overdraft fees for $35 buckos each.  Which means I&amp;rsquo;d owed them $100 dollars.  That is a lot of money for a jobless 18 year. Their story has one additional problem, I never went to a treat center.&lt;/p&gt;</description>
@@ -53,10 +53,10 @@
     
     <item>
       <title>...but why?</title>
-      <link>https://www.thetroublewithtravis.com/pages/about/</link>
+      <link>http://localhost:1313/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thetroublewithtravis.com/pages/about/</guid>
+      <guid>http://localhost:1313/pages/about/</guid>
       
       <description>&lt;p&gt;Like most things, this all started to see if I could.&lt;/p&gt;
 &lt;p&gt;See, I&amp;rsquo;d had this idea for The Trouble with Travis a long time ago. It would be a blog space, where I&amp;rsquo;d explore (and probably fumble a bit) through some writings and just get it out there. See where it lead. But there were several problems with how I&amp;rsquo;d set it up.&lt;/p&gt;
