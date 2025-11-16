@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on The Trouble with Travis</title>
+    <link>https://www.thetroublewithtravis.com/pages/</link>
+    <description>Recent content in Pages on The Trouble with Travis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language><atom:link href="https://www.thetroublewithtravis.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>...but why?</title>
+      <link>https://www.thetroublewithtravis.com/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.thetroublewithtravis.com/pages/about/</guid>
+      
+      <description>&lt;p&gt;Like most things, this all started to see if I could.&lt;/p&gt;
+&lt;p&gt;See, I&amp;rsquo;d had this idea for The Trouble with Travis a long time ago. It would be a blog space, where I&amp;rsquo;d explore (and probably fumble a bit) through some writings and just get it out there. See where it lead. But there were several problems with how I&amp;rsquo;d set it up.&lt;/p&gt;
+&lt;p&gt;Well, not problems exactly. It was cumbersome. Wordpress was heavy for what I wanted to do. It turns out that if you put a small barrier to entry, I&amp;rsquo;m not prone to write very much on that plat form.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
