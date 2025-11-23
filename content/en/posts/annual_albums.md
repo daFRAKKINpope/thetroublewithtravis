@@ -7,266 +7,266 @@ tocopen = true
 +++
 
 ## Introduction
-Since 2014 I've been keeping a cronical of albums. This is typically music that I find during that year, or that was relevant to me in some way personally. This page serves as a cronical of those albums so the songs are not lost. As a rule, album titles and songs are locked after the years end.
+Since 2014 I've been keeping a chronicle of albums. This is typically music that I find during that year, or that was relevant to me in some way personally. This page serves as a chronicle of those albums so the songs are not lost. As a rule, album titles and songs are locked after the year's end.
 
 ## Annual Albums
 ### Pathfinder (2025)
-1) Fruit Bat - Of Monsters and Men
-2) Road Regrets - Dan Mangan
-3) The Blue, The Green - Lonely The Brave 
-4) Open Passageways - All Them Witches
-5) Money Game, Pt. 2 - Ren
-6) Palliative Care - Sunliner
-7) No Light, No Light - 10 Years
-8) Ricochet - Rise Against 
-9) Rose Tint - Billy Sharp
-10) We're Not In Orbit Yet... - Broken Bells, James Mercer, Danger Mouse
-11) What Kind of Song - Wild Rivers
-12) Lonely Bones - The Honest Heart Collective
-13) The Next Storm - Frank Turner 
-14) Wait - M83
+1) [Fruit Bat - Of Monsters and Men](https://www.youtube.com/results?search_query=Fruit+Bat+-+Of+Monsters+and+Men)
+2) [Road Regrets - Dan Mangan](https://www.youtube.com/results?search_query=Road+Regrets+-+Dan+Mangan)
+3) [The Blue, The Green - Lonely The Brave](https://www.youtube.com/results?search_query=The+Blue%2C+The+Green+-+Lonely+The+Brave)
+4) [Open Passageways - All Them Witches](https://www.youtube.com/results?search_query=Open+Passageways+-+All+Them+Witches)
+5) [Money Game, Pt. 2 - Ren](https://www.youtube.com/results?search_query=Money+Game%2C+Pt.+2+-+Ren)
+6) [Palliative Care - Sunliner](https://www.youtube.com/results?search_query=Palliative+Care+-+Sunliner)
+7) [No Light, No Light - 10 Years](https://www.youtube.com/results?search_query=No+Light%2C+No+Light+-+10+Years)
+8) [Ricochet - Rise Against](https://www.youtube.com/results?search_query=Ricochet+-+Rise+Against)
+9) [Rose Tint - Billy Sharp](https://www.youtube.com/results?search_query=Rose+Tint+-+Billy+Sharp)
+10) [We're Not In Orbit Yet... - Broken Bells, James Mercer, Danger Mouse](https://www.youtube.com/results?search_query=We%27re+Not+In+Orbit+Yet...+-+Broken+Bells%2C+James+Mercer%2C+Danger+Mouse)
+11) [What Kind of Song - Wild Rivers](https://www.youtube.com/results?search_query=What+Kind+of+Song+-+Wild+Rivers)
+12) [Lonely Bones - The Honest Heart Collective](https://www.youtube.com/results?search_query=Lonely+Bones+-+The+Honest+Heart+Collective)
+13) [The Next Storm - Frank Turner](https://www.youtube.com/results?search_query=The+Next+Storm+-+Frank+Turner)
+14) [Wait - M83](https://www.youtube.com/results?search_query=Wait+-+M83)
 
 ### Per Aspera Ad Astra (2024)
 Disk 1
-1) HOPE - NF
-2) Stereo - The Watchmen
-3) Brother Down - Sam Roberts Band 
-4) All Fall Down - Thornley
-5) Everything's Electric - Liam Gallagher
-6) IF IT DOESN'T HURT - NOTHING MORE
-7) Happy Song - Bring Me The Horizon
-8) Feels Like Letting Go - The Violent
-9) The Mistake - AM Taxi
-10) Panic Attack - The Glorious Sons
-11) SLEEP WHEN I'M DEAD - Jack Kays
-12) Austin (Boots Stop Workin') - Dasha
-13) Ghosts - Big Wreck 
-14) Coming Home Timcast, Phil Labonte
-15) Momma Sed - Puscifer
+1) [HOPE - NF](https://www.youtube.com/results?search_query=HOPE+-+NF)
+2) [Stereo - The Watchmen](https://www.youtube.com/results?search_query=Stereo+-+The+Watchmen)
+3) [Brother Down - Sam Roberts Band](https://www.youtube.com/results?search_query=Brother+Down+-+Sam+Roberts+Band)
+4) [All Fall Down - Thornley](https://www.youtube.com/results?search_query=All+Fall+Down+-+Thornley)
+5) [Everything's Electric - Liam Gallagher](https://www.youtube.com/results?search_query=Everything%27s+Electric+-+Liam+Gallagher)
+6) [IF IT DOESN'T HURT - NOTHING MORE](https://www.youtube.com/results?search_query=IF+IT+DOESN%27T+HURT+-+NOTHING+MORE)
+7) [Happy Song - Bring Me The Horizon](https://www.youtube.com/results?search_query=Happy+Song+-+Bring+Me+The+Horizon)
+8) [Feels Like Letting Go - The Violent](https://www.youtube.com/results?search_query=Feels+Like+Letting+Go+-+The+Violent)
+9) [The Mistake - AM Taxi](https://www.youtube.com/results?search_query=The+Mistake+-+AM+Taxi)
+10) [Panic Attack - The Glorious Sons](https://www.youtube.com/results?search_query=Panic+Attack+-+The+Glorious+Sons)
+11) [SLEEP WHEN I'M DEAD - Jack Kays](https://www.youtube.com/results?search_query=SLEEP+WHEN+I%27M+DEAD+-+Jack+Kays)
+12) [Austin (Boots Stop Workin') - Dasha](https://www.youtube.com/results?search_query=Austin+%28Boots+Stop+Workin%27%29+-+Dasha)
+13) [Ghosts - Big Wreck](https://www.youtube.com/results?search_query=Ghosts+-+Big+Wreck)
+14) [Coming Home Timcast, Phil Labonte](https://www.youtube.com/results?search_query=Coming+Home+Timcast%2C+Phil+Labonte)
+15) [Momma Sed - Puscifer](https://www.youtube.com/results?search_query=Momma+Sed+-+Puscifer)
 Disk 2
-16) The Feel Good Drag - Sparrow Sleeps, Anberlin
-17) Straight Forward - Evon Rose
-18) Scared To Start - Michael Marcagi
-19) Charleston Girl (Live) - Tyler Childers 
-20) Starburster - Fontaines D.C.
-21) Sex Drugs Whatever - Vienna Vienna 
-22) Escapism. - Father of Peace 
-23) Wilder Mind - Mumford & Sons
-24) Tell Tale Signs - Frank Turner 
-25) I'll Be OK - NOTHING MORE
-26) Strange Life - Tickle Me Pink
-27) Marathon Runner - Yellow Ostrich
-28) Brighter Than The Sun - Brick + Mortar 
-29) Moving on (So Long) - Blue October
-30) Leader Of The Landslide - The Lumineers 
+16) [The Feel Good Drag - Sparrow Sleeps, Anberlin](https://www.youtube.com/results?search_query=The+Feel+Good+Drag+-+Sparrow+Sleeps%2C+Anberlin)
+17) [Straight Forward - Evon Rose](https://www.youtube.com/results?search_query=Straight+Forward+-+Evon+Rose)
+18) [Scared To Start - Michael Marcagi](https://www.youtube.com/results?search_query=Scared+To+Start+-+Michael+Marcagi)
+19) [Charleston Girl (Live) - Tyler Childers](https://www.youtube.com/results?search_query=Charleston+Girl+%28Live%29+-+Tyler+Childers)
+20) [Starburster - Fontaines D.C.](https://www.youtube.com/results?search_query=Starburster+-+Fontaines+D.C.)
+21) [Sex Drugs Whatever - Vienna Vienna](https://www.youtube.com/results?search_query=Sex+Drugs+Whatever+-+Vienna+Vienna)
+22) [Escapism. - Father of Peace](https://www.youtube.com/results?search_query=Escapism.+-+Father+of+Peace)
+23) [Wilder Mind - Mumford & Sons](https://www.youtube.com/results?search_query=Wilder+Mind+-+Mumford+%26+Sons)
+24) [Tell Tale Signs - Frank Turner](https://www.youtube.com/results?search_query=Tell+Tale+Signs+-+Frank+Turner)
+25) [I'll Be OK - NOTHING MORE](https://www.youtube.com/results?search_query=I%27ll+Be+OK+-+NOTHING+MORE)
+26) [Strange Life - Tickle Me Pink](https://www.youtube.com/results?search_query=Strange+Life+-+Tickle+Me+Pink)
+27) [Marathon Runner - Yellow Ostrich](https://www.youtube.com/results?search_query=Marathon+Runner+-+Yellow+Ostrich)
+28) [Brighter Than The Sun - Brick + Mortar](https://www.youtube.com/results?search_query=Brighter+Than+The+Sun+-+Brick+%2B+Mortar)
+29) [Moving on (So Long) - Blue October](https://www.youtube.com/results?search_query=Moving+on+%28So+Long%29+-+Blue+October)
+30) [Leader Of The Landslide - The Lumineers](https://www.youtube.com/results?search_query=Leader+Of+The+Landslide+-+The+Lumineers)
 
 ### Muted (2023)
 Disk 1
-1) Long Shot - Newton Faulkner 
-2) Humble Ledger (Gnostic States) - Eidola
-3) Funderal Singers - Califone
-4) Mouthpiece - Dan Mangan + Blacksmith
-5) Have You Ever Met God? - A Story Told
-6) Days Of Oblivion - Metric
-7) Recovery - Frank Turner
-8) Same Ol' Road - Dredg
-9) Volcano - Damien Rice
-10) Wanted Man - The Last INternationale 
-11) When You Break - Bear's Den
-12) Half The World - Arcane Roots
+1) [Long Shot - Newton Faulkner](https://www.youtube.com/results?search_query=Long+Shot+-+Newton+Faulkner)
+2) [Humble Ledger (Gnostic States) - Eidola](https://www.youtube.com/results?search_query=Humble+Ledger+%28Gnostic+States%29+-+Eidola)
+3) [Funderal Singers - Califone](https://www.youtube.com/results?search_query=Funderal+Singers+-+Califone)
+4) [Mouthpiece - Dan Mangan + Blacksmith](https://www.youtube.com/results?search_query=Mouthpiece+-+Dan+Mangan+%2B+Blacksmith)
+5) [Have You Ever Met God? - A Story Told](https://www.youtube.com/results?search_query=Have+You+Ever+Met+God%3F+-+A+Story+Told)
+6) [Days Of Oblivion - Metric](https://www.youtube.com/results?search_query=Days+Of+Oblivion+-+Metric)
+7) [Recovery - Frank Turner](https://www.youtube.com/results?search_query=Recovery+-+Frank+Turner)
+8) [Same Ol' Road - Dredg](https://www.youtube.com/results?search_query=Same+Ol%27+Road+-+Dredg)
+9) [Volcano - Damien Rice](https://www.youtube.com/results?search_query=Volcano+-+Damien+Rice)
+10) [Wanted Man - The Last INternationale](https://www.youtube.com/results?search_query=Wanted+Man+-+The+Last+INternationale)
+11) [When You Break - Bear's Den](https://www.youtube.com/results?search_query=When+You+Break+-+Bear%27s+Den)
+12) [Half The World - Arcane Roots](https://www.youtube.com/results?search_query=Half+The+World+-+Arcane+Roots)
 Disk 2
-13) Bullets - Archive
-14) MANTRA - Bring Me The Horizon
-15) IDWT$ - Bad Omens 
-16) The Artist In The Ambulance (2023) - Thrice 
-17) BEST TIMES (feat. Lacey Sturm) - NOTHING MORE, Lacey Sturm
-18) Fruher war ich meistens traurig - Herrenmagazin
-19) Warflower - The Mayan Factor
-20) Tradition - Thousand Below 
-21) The Wanting Comes In Waves - The Decemberists
-22) Driving Twoards the Daylight - Joe Bonamassa 
-23) Something Beautiful - Augustana
-24) There Will Be a Way - Dotan
-25) Brother's Blood - Kevin Devine
+13) [Bullets - Archive](https://www.youtube.com/results?search_query=Bullets+-+Archive)
+14) [MANTRA - Bring Me The Horizon](https://www.youtube.com/results?search_query=MANTRA+-+Bring+Me+The+Horizon)
+15) [IDWT$ - Bad Omens](https://www.youtube.com/results?search_query=IDWT%24+-+Bad+Omens)
+16) [The Artist In The Ambulance (2023) - Thrice](https://www.youtube.com/results?search_query=The+Artist+In+The+Ambulance+%282023%29+-+Thrice)
+17) [BEST TIMES (feat. Lacey Sturm) - NOTHING MORE, Lacey Sturm](https://www.youtube.com/results?search_query=BEST+TIMES+%28feat.+Lacey+Sturm%29+-+NOTHING+MORE%2C+Lacey+Sturm)
+18) [Fruher war ich meistens traurig - Herrenmagazin](https://www.youtube.com/results?search_query=Fruher+war+ich+meistens+traurig+-+Herrenmagazin)
+19) [Warflower - The Mayan Factor](https://www.youtube.com/results?search_query=Warflower+-+The+Mayan+Factor)
+20) [Tradition - Thousand Below](https://www.youtube.com/results?search_query=Tradition+-+Thousand+Below)
+21) [The Wanting Comes In Waves - The Decemberists](https://www.youtube.com/results?search_query=The+Wanting+Comes+In+Waves+-+The+Decemberists)
+22) [Driving Twoards the Daylight - Joe Bonamassa](https://www.youtube.com/results?search_query=Driving+Twoards+the+Daylight+-+Joe+Bonamassa)
+23) [Something Beautiful - Augustana](https://www.youtube.com/results?search_query=Something+Beautiful+-+Augustana)
+24) [There Will Be a Way - Dotan](https://www.youtube.com/results?search_query=There+Will+Be+a+Way+-+Dotan)
+25) [Brother's Blood - Kevin Devine](https://www.youtube.com/results?search_query=Brother%27s+Blood+-+Kevin+Devine)
 
 ### A Rebuilding Year (2022)
-1) The World Song - Petula Clark
-2) A Good Song Never Dies - Saint MOtel 
-3) The Cult of Dionysus - The Orion Experience 
-4) In Need of Medicine - Smash Into Pieces 
-5) Destruction - Joywave 
-6) ARTIFICIAL SUICIDE - Bad Omens 
-7) Falling Through the Sky - Fit For A King
-8) Purple Yellow Red and Blue - Portugal. The Man
-9) Dance Monkey - Tones And I
-10) Leave a Light On - Tom Walker
-11) Whitehouse Roude (OurVinyl Sessions) - Tyler Childers, OurVinyl 
-12) The Jester - Badflower
+1) [The World Song - Petula Clark](https://www.youtube.com/results?search_query=The+World+Song+-+Petula+Clark)
+2) [A Good Song Never Dies - Saint MOtel](https://www.youtube.com/results?search_query=A+Good+Song+Never+Dies+-+Saint+MOtel)
+3) [The Cult of Dionysus - The Orion Experience](https://www.youtube.com/results?search_query=The+Cult+of+Dionysus+-+The+Orion+Experience)
+4) [In Need of Medicine - Smash Into Pieces](https://www.youtube.com/results?search_query=In+Need+of+Medicine+-+Smash+Into+Pieces)
+5) [Destruction - Joywave](https://www.youtube.com/results?search_query=Destruction+-+Joywave)
+6) [ARTIFICIAL SUICIDE - Bad Omens](https://www.youtube.com/results?search_query=ARTIFICIAL+SUICIDE+-+Bad+Omens)
+7) [Falling Through the Sky - Fit For A King](https://www.youtube.com/results?search_query=Falling+Through+the+Sky+-+Fit+For+A+King)
+8) [Purple Yellow Red and Blue - Portugal. The Man](https://www.youtube.com/results?search_query=Purple+Yellow+Red+and+Blue+-+Portugal.+The+Man)
+9) [Dance Monkey - Tones And I](https://www.youtube.com/results?search_query=Dance+Monkey+-+Tones+And+I)
+10) [Leave a Light On - Tom Walker](https://www.youtube.com/results?search_query=Leave+a+Light+On+-+Tom+Walker)
+11) [Whitehouse Roude (OurVinyl Sessions) - Tyler Childers, OurVinyl](https://www.youtube.com/results?search_query=Whitehouse+Roude+%28OurVinyl+Sessions%29+-+Tyler+Childers%2C+OurVinyl)
+12) [The Jester - Badflower](https://www.youtube.com/results?search_query=The+Jester+-+Badflower)
 
 ### Nyet (2021)
-1) The Silence - Manchester Orchestra 
-2) Divisionary (Do The Right Thing) - Ages and Ages
-3) The American Dream - The Federal Empire
-4) Cocaine Chest Pains - Kopek
-5) Novacaine - 10 Years
-6) Drugs - Falling In Reverse 
-7) Facination - Red Sun Rising
-8) Bringin' Home the Rain
-9) Fade In / Fade Out - NOTHING MORE
-10) Not Smart - Radkey
-11) In Hell I'll Be In Good Company - The Dead South
-12) Hurricane - THe Band Of Heathens
-13) Old Number Seven - The Devil Makes Three
-14) Six Weeks - Of Monsters and Men
-15) Heaven Up There - Palace 
+1) [The Silence - Manchester Orchestra](https://www.youtube.com/results?search_query=The+Silence+-+Manchester+Orchestra)
+2) [Divisionary (Do The Right Thing) - Ages and Ages](https://www.youtube.com/results?search_query=Divisionary+%28Do+The+Right+Thing%29+-+Ages+and+Ages)
+3) [The American Dream - The Federal Empire](https://www.youtube.com/results?search_query=The+American+Dream+-+The+Federal+Empire)
+4) [Cocaine Chest Pains - Kopek](https://www.youtube.com/results?search_query=Cocaine+Chest+Pains+-+Kopek)
+5) [Novacaine - 10 Years](https://www.youtube.com/results?search_query=Novacaine+-+10+Years)
+6) [Drugs - Falling In Reverse](https://www.youtube.com/results?search_query=Drugs+-+Falling+In+Reverse)
+7) [Facination - Red Sun Rising](https://www.youtube.com/results?search_query=Facination+-+Red+Sun+Rising)
+8) [Bringin' Home the Rain](https://www.youtube.com/results?search_query=Bringin%27+Home+the+Rain)
+9) [Fade In / Fade Out - NOTHING MORE](https://www.youtube.com/results?search_query=Fade+In+%2F+Fade+Out+-+NOTHING+MORE)
+10) [Not Smart - Radkey](https://www.youtube.com/results?search_query=Not+Smart+-+Radkey)
+11) [In Hell I'll Be In Good Company - The Dead South](https://www.youtube.com/results?search_query=In+Hell+I%27ll+Be+In+Good+Company+-+The+Dead+South)
+12) [Hurricane - THe Band Of Heathens](https://www.youtube.com/results?search_query=Hurricane+-+THe+Band+Of+Heathens)
+13) [Old Number Seven - The Devil Makes Three](https://www.youtube.com/results?search_query=Old+Number+Seven+-+The+Devil+Makes+Three)
+14) [Six Weeks - Of Monsters and Men](https://www.youtube.com/results?search_query=Six+Weeks+-+Of+Monsters+and+Men)
+15) [Heaven Up There - Palace](https://www.youtube.com/results?search_query=Heaven+Up+There+-+Palace)
 
 ### Homecomming (2020)
-1) Cold LIttle Heart - Michael Kiwanuka
-2) Mountain at My Gates - Foals
-3) You, Me and the Bourgeoisie
-4) Good Luck - Broken Bells 
-5) Visitor - Of Monsters and Men
-6) Terrified - The Rural Alberta Advantage
-7) Stuff Is Messed Up - The Offspring
-8) Blame It On The Double - Cory Marks, Theory of a Deadman
-9) Yuve Yuve Yu - The HU
-10) The Man - The Killers
-11) The Remedy - Puscifer
-12) Cool - Rehab
-13) Jenny - NOTHING MORE
-14) God Went North - NOTHING MORE
-15) Pyre - NOTHING MORE
+1) [Cold LIttle Heart - Michael Kiwanuka](https://www.youtube.com/results?search_query=Cold+LIttle+Heart+-+Michael+Kiwanuka)
+2) [Mountain at My Gates - Foals](https://www.youtube.com/results?search_query=Mountain+at+My+Gates+-+Foals)
+3) [You, Me and the Bourgeoisie](https://www.youtube.com/results?search_query=You%2C+Me+and+the+Bourgeoisie)
+4) [Good Luck - Broken Bells](https://www.youtube.com/results?search_query=Good+Luck+-+Broken+Bells)
+5) [Visitor - Of Monsters and Men](https://www.youtube.com/results?search_query=Visitor+-+Of+Monsters+and+Men)
+6) [Terrified - The Rural Alberta Advantage](https://www.youtube.com/results?search_query=Terrified+-+The+Rural+Alberta+Advantage)
+7) [Stuff Is Messed Up - The Offspring](https://www.youtube.com/results?search_query=Stuff+Is+Messed+Up+-+The+Offspring)
+8) [Blame It On The Double - Cory Marks, Theory of a Deadman](https://www.youtube.com/results?search_query=Blame+It+On+The+Double+-+Cory+Marks%2C+Theory+of+a+Deadman)
+9) [Yuve Yuve Yu - The HU](https://www.youtube.com/results?search_query=Yuve+Yuve+Yu+-+The+HU)
+10) [The Man - The Killers](https://www.youtube.com/results?search_query=The+Man+-+The+Killers)
+11) [The Remedy - Puscifer](https://www.youtube.com/results?search_query=The+Remedy+-+Puscifer)
+12) [Cool - Rehab](https://www.youtube.com/results?search_query=Cool+-+Rehab)
+13) [Jenny - NOTHING MORE](https://www.youtube.com/results?search_query=Jenny+-+NOTHING+MORE)
+14) [God Went North - NOTHING MORE](https://www.youtube.com/results?search_query=God+Went+North+-+NOTHING+MORE)
+15) [Pyre - NOTHING MORE](https://www.youtube.com/results?search_query=Pyre+-+NOTHING+MORE)
 
 ### The Mall & Misery (2019)
-1) Over Nine Waves - SuidAkrA
-2) Drink - Alestorm
-3) Vultures - pg.lost
-4) Two Coins - City and Colour
-5) No Light, No Light - Florence + The Machine
-6) Home - Edward Sharpe & The Magnetic Zeros
-7) The Likes of You Again - Flogging Molly
-8) Where'd You Go - Fort Minor 
-9) When I'm Small - Phantogram
-10) The Mall & Misery - Broken Bells, Danger Mouse, James Mercer
-11) Desert - BLACKTOP QUEEN
-12) Deathwish - Red Sun Rising
-13) Out Of The Boat - Scott Lucas & The Married Men
-14) Saving Grace - Tom Petty
-15) Vaporize - Broken Bells, Danger Mouse, James Mercer
-16) Solar System - Sub Focus
-17) Fight Song - Rachel Platten
-18) I Wanna Rave - Steve Aoki, Bassjackers
-19) Vassel - Dan Magan + Blacksmith
-20) Not In Love - Olin And The Moon
-21) If You Were Here - Cary Brothers
-22) Drain The Blood - The Rural Alberta Advantage 
-23) This Bird Has Flown - The Wooden Sky
-24) Focus - 10 Years 
-25) Her Hollow Ways - Danger Mouse, Daniele Luppi
-26) Tangled up in You - Staind 
+1) [Over Nine Waves - SuidAkrA](https://www.youtube.com/results?search_query=Over+Nine+Waves+-+SuidAkrA)
+2) [Drink - Alestorm](https://www.youtube.com/results?search_query=Drink+-+Alestorm)
+3) [Vultures - pg.lost](https://www.youtube.com/results?search_query=Vultures+-+pg.lost)
+4) [Two Coins - City and Colour](https://www.youtube.com/results?search_query=Two+Coins+-+City+and+Colour)
+5) [No Light, No Light - Florence + The Machine](https://www.youtube.com/results?search_query=No+Light%2C+No+Light+-+Florence+%2B+The+Machine)
+6) [Home - Edward Sharpe & The Magnetic Zeros](https://www.youtube.com/results?search_query=Home+-+Edward+Sharpe+%26+The+Magnetic+Zeros)
+7) [The Likes of You Again - Flogging Molly](https://www.youtube.com/results?search_query=The+Likes+of+You+Again+-+Flogging+Molly)
+8) [Where'd You Go - Fort Minor](https://www.youtube.com/results?search_query=Where%27d+You+Go+-+Fort+Minor)
+9) [When I'm Small - Phantogram](https://www.youtube.com/results?search_query=When+I%27m+Small+-+Phantogram)
+10) [The Mall & Misery - Broken Bells, Danger Mouse, James Mercer](https://www.youtube.com/results?search_query=The+Mall+%26+Misery+-+Broken+Bells%2C+Danger+Mouse%2C+James+Mercer)
+11) [Desert - BLACKTOP QUEEN](https://www.youtube.com/results?search_query=Desert+-+BLACKTOP+QUEEN)
+12) [Deathwish - Red Sun Rising](https://www.youtube.com/results?search_query=Deathwish+-+Red+Sun+Rising)
+13) [Out Of The Boat - Scott Lucas & The Married Men](https://www.youtube.com/results?search_query=Out+Of+The+Boat+-+Scott+Lucas+%26+The+Married+Men)
+14) [Saving Grace - Tom Petty](https://www.youtube.com/results?search_query=Saving+Grace+-+Tom+Petty)
+15) [Vaporize - Broken Bells, Danger Mouse, James Mercer](https://www.youtube.com/results?search_query=Vaporize+-+Broken+Bells%2C+Danger+Mouse%2C+James+Mercer)
+16) [Solar System - Sub Focus](https://www.youtube.com/results?search_query=Solar+System+-+Sub+Focus)
+17) [Fight Song - Rachel Platten](https://www.youtube.com/results?search_query=Fight+Song+-+Rachel+Platten)
+18) [I Wanna Rave - Steve Aoki, Bassjackers](https://www.youtube.com/results?search_query=I+Wanna+Rave+-+Steve+Aoki%2C+Bassjackers)
+19) [Vassel - Dan Magan + Blacksmith](https://www.youtube.com/results?search_query=Vassel+-+Dan+Magan+%2B+Blacksmith)
+20) [Not In Love - Olin And The Moon](https://www.youtube.com/results?search_query=Not+In+Love+-+Olin+And+The+Moon)
+21) [If You Were Here - Cary Brothers](https://www.youtube.com/results?search_query=If+You+Were+Here+-+Cary+Brothers)
+22) [Drain The Blood - The Rural Alberta Advantage](https://www.youtube.com/results?search_query=Drain+The+Blood+-+The+Rural+Alberta+Advantage)
+23) [This Bird Has Flown - The Wooden Sky](https://www.youtube.com/results?search_query=This+Bird+Has+Flown+-+The+Wooden+Sky)
+24) [Focus - 10 Years](https://www.youtube.com/results?search_query=Focus+-+10+Years)
+25) [Her Hollow Ways - Danger Mouse, Daniele Luppi](https://www.youtube.com/results?search_query=Her+Hollow+Ways+-+Danger+Mouse%2C+Daniele+Luppi)
+26) [Tangled up in You - Staind](https://www.youtube.com/results?search_query=Tangled+up+in+You+-+Staind)
 
 ### La Vita Nuova (2018)
-1) Pray - Sam Smith, Logic
-2) I Need Something - Newton Faulkner
-3) Lost in My Mind - The Head And The HEart
-4) Latchkey Kids - Silversun Pickups
-5) Go! - Public Service Broadcasting
-6) Mountain - Tonic
-7) Teen Angst (What The World Needs Now) - Cracker
-8) Pay for the Weekend - KONGOS
-9) Severed - The Decemberists
-10) All Dreamed Out - Blinker The Star
-11) The Sense of Me - Mud Flow
-12) Chemicals - Mud Flow
-13) Mistakes We Knew We Were Making - Straylight Run
-14) Season - The Academy Is...
-15) Pure Morning - Placebo
-16) Turn The Page - Live At Cobo Hall,Detriot/1975/Remiaster 2011 - Bob Seger
-17) Leave Me Alone - Revolver
-18) Existentialism On Prom Night - Straylight Run
-19) Portugal - WALK THE MOON
-20) Oil On Water - Bastille
-21) 7 - Catfish and the Bottlemen
-22) JM - Strand of Oaks
-23) Blindness - Metric
-24) Dear Brother - Puscifer
+1) [Pray - Sam Smith, Logic](https://www.youtube.com/results?search_query=Pray+-+Sam+Smith%2C+Logic)
+2) [I Need Something - Newton Faulkner](https://www.youtube.com/results?search_query=I+Need+Something+-+Newton+Faulkner)
+3) [Lost in My Mind - The Head And The HEart](https://www.youtube.com/results?search_query=Lost+in+My+Mind+-+The+Head+And+The+HEart)
+4) [Latchkey Kids - Silversun Pickups](https://www.youtube.com/results?search_query=Latchkey+Kids+-+Silversun+Pickups)
+5) [Go! - Public Service Broadcasting](https://www.youtube.com/results?search_query=Go%21+-+Public+Service+Broadcasting)
+6) [Mountain - Tonic](https://www.youtube.com/results?search_query=Mountain+-+Tonic)
+7) [Teen Angst (What The World Needs Now) - Cracker](https://www.youtube.com/results?search_query=Teen+Angst+%28What+The+World+Needs+Now%29+-+Cracker)
+8) [Pay for the Weekend - KONGOS](https://www.youtube.com/results?search_query=Pay+for+the+Weekend+-+KONGOS)
+9) [Severed - The Decemberists](https://www.youtube.com/results?search_query=Severed+-+The+Decemberists)
+10) [All Dreamed Out - Blinker The Star](https://www.youtube.com/results?search_query=All+Dreamed+Out+-+Blinker+The+Star)
+11) [The Sense of Me - Mud Flow](https://www.youtube.com/results?search_query=The+Sense+of+Me+-+Mud+Flow)
+12) [Chemicals - Mud Flow](https://www.youtube.com/results?search_query=Chemicals+-+Mud+Flow)
+13) [Mistakes We Knew We Were Making - Straylight Run](https://www.youtube.com/results?search_query=Mistakes+We+Knew+We+Were+Making+-+Straylight+Run)
+14) [Season - The Academy Is...](https://www.youtube.com/results?search_query=Season+-+The+Academy+Is...)
+15) [Pure Morning - Placebo](https://www.youtube.com/results?search_query=Pure+Morning+-+Placebo)
+16) [Turn The Page - Live At Cobo Hall,Detriot/1975/Remiaster 2011 - Bob Seger](https://www.youtube.com/results?search_query=Turn+The+Page+-+Live+At+Cobo+Hall%2CDetriot%2F1975%2FRemiaster+2011+-+Bob+Seger)
+17) [Leave Me Alone - Revolver](https://www.youtube.com/results?search_query=Leave+Me+Alone+-+Revolver)
+18) [Existentialism On Prom Night - Straylight Run](https://www.youtube.com/results?search_query=Existentialism+On+Prom+Night+-+Straylight+Run)
+19) [Portugal - WALK THE MOON](https://www.youtube.com/results?search_query=Portugal+-+WALK+THE+MOON)
+20) [Oil On Water - Bastille](https://www.youtube.com/results?search_query=Oil+On+Water+-+Bastille)
+21) [7 - Catfish and the Bottlemen](https://www.youtube.com/results?search_query=7+-+Catfish+and+the+Bottlemen)
+22) [JM - Strand of Oaks](https://www.youtube.com/results?search_query=JM+-+Strand+of+Oaks)
+23) [Blindness - Metric](https://www.youtube.com/results?search_query=Blindness+-+Metric)
+24) [Dear Brother - Puscifer](https://www.youtube.com/results?search_query=Dear+Brother+-+Puscifer)
 
 ### Complicated Creation (2017)
-1) Clear The Air - Off With Their Heads
-2) Stand By Me - Ki:Theory
-3) My Name Is Human - Highly Suspect
-4) Set My Body Free - The White Buffalo
-5) Complicated Creation - Cloud Cult
-6) Special Needs - Placebo
-7) This Year - The Mountain Goats
-8) Flush - Brian "Head" Welch
-9) Only If You Run - Julian Plenti
-10) Trip Switch - Nothing But Thieves
-11) Spinning - GROUPLOVE
-12) Wolves Without Teeth - Of Monsters and Men
-13) Postcards from iO - Charlene Soraia
-14) Trojans - Atlas Genius
-15) This Probably Won't End Well - All That Remains
-16) The Last Words - Ivoryline
-17) Shine - Mondo Cozmo
+1) [Clear The Air - Off With Their Heads](https://www.youtube.com/results?search_query=Clear+The+Air+-+Off+With+Their+Heads)
+2) [Stand By Me - Ki:Theory](https://www.youtube.com/results?search_query=Stand+By+Me+-+Ki%3ATheory)
+3) [My Name Is Human - Highly Suspect](https://www.youtube.com/results?search_query=My+Name+Is+Human+-+Highly+Suspect)
+4) [Set My Body Free - The White Buffalo](https://www.youtube.com/results?search_query=Set+My+Body+Free+-+The+White+Buffalo)
+5) [Complicated Creation - Cloud Cult](https://www.youtube.com/results?search_query=Complicated+Creation+-+Cloud+Cult)
+6) [Special Needs - Placebo](https://www.youtube.com/results?search_query=Special+Needs+-+Placebo)
+7) [This Year - The Mountain Goats](https://www.youtube.com/results?search_query=This+Year+-+The+Mountain+Goats)
+8) [Flush - Brian "Head" Welch](https://www.youtube.com/results?search_query=Flush+-+Brian+%22Head%22+Welch)
+9) [Only If You Run - Julian Plenti](https://www.youtube.com/results?search_query=Only+If+You+Run+-+Julian+Plenti)
+10) [Trip Switch - Nothing But Thieves](https://www.youtube.com/results?search_query=Trip+Switch+-+Nothing+But+Thieves)
+11) [Spinning - GROUPLOVE](https://www.youtube.com/results?search_query=Spinning+-+GROUPLOVE)
+12) [Wolves Without Teeth - Of Monsters and Men](https://www.youtube.com/results?search_query=Wolves+Without+Teeth+-+Of+Monsters+and+Men)
+13) [Postcards from iO - Charlene Soraia](https://www.youtube.com/results?search_query=Postcards+from+iO+-+Charlene+Soraia)
+14) [Trojans - Atlas Genius](https://www.youtube.com/results?search_query=Trojans+-+Atlas+Genius)
+15) [This Probably Won't End Well - All That Remains](https://www.youtube.com/results?search_query=This+Probably+Won%27t+End+Well+-+All+That+Remains)
+16) [The Last Words - Ivoryline](https://www.youtube.com/results?search_query=The+Last+Words+-+Ivoryline)
+17) [Shine - Mondo Cozmo](https://www.youtube.com/results?search_query=Shine+-+Mondo+Cozmo)
 
 ### This Voyage Home (2016)
-1) In My Mind - Amanda Palmer
-2) The Sense of Me - Mud Flow
-3) Epic - Calexico
-4) Mountains - Message To Bears
-5) Lua - Bright Eyes
-6) Mt. Washington - Local Natives
-7) Your Anchor - Asaf Avidan, The Mojos
-8) Something Good - alt-J
-9) Kids Will Be Skeletons - Mogwai
-10) Spanish Sahara - Foals
-11) Obstacles - Syd Matters
-12) Black Sun - Death Cab for Cutie
+1) [In My Mind - Amanda Palmer](https://www.youtube.com/results?search_query=In+My+Mind+-+Amanda+Palmer)
+2) [The Sense of Me - Mud Flow](https://www.youtube.com/results?search_query=The+Sense+of+Me+-+Mud+Flow)
+3) [Epic - Calexico](https://www.youtube.com/results?search_query=Epic+-+Calexico)
+4) [Mountains - Message To Bears](https://www.youtube.com/results?search_query=Mountains+-+Message+To+Bears)
+5) [Lua - Bright Eyes](https://www.youtube.com/results?search_query=Lua+-+Bright+Eyes)
+6) [Mt. Washington - Local Natives](https://www.youtube.com/results?search_query=Mt.+Washington+-+Local+Natives)
+7) [Your Anchor - Asaf Avidan, The Mojos](https://www.youtube.com/results?search_query=Your+Anchor+-+Asaf+Avidan%2C+The+Mojos)
+8) [Something Good - alt-J](https://www.youtube.com/results?search_query=Something+Good+-+alt-J)
+9) [Kids Will Be Skeletons - Mogwai](https://www.youtube.com/results?search_query=Kids+Will+Be+Skeletons+-+Mogwai)
+10) [Spanish Sahara - Foals](https://www.youtube.com/results?search_query=Spanish+Sahara+-+Foals)
+11) [Obstacles - Syd Matters](https://www.youtube.com/results?search_query=Obstacles+-+Syd+Matters)
+12) [Black Sun - Death Cab for Cutie](https://www.youtube.com/results?search_query=Black+Sun+-+Death+Cab+for+Cutie)
 
 
 ### Surrounded by Ponderous Pine... (2015)
-1) Stars - Hum
-2) Hey You - The Exies
-3) I Want to See You - The Parlor Mob
-4) Welcome To The Fold - Filter
-5) Stars and Boulevards - Augustana
-6) Under the Milky Way - The Church
-7) I Won't See You Tonight Part 1 - Avenged Sevenfold
+1) [Stars - Hum](https://www.youtube.com/results?search_query=Stars+-+Hum)
+2) [Hey You - The Exies](https://www.youtube.com/results?search_query=Hey+You+-+The+Exies)
+3) [I Want to See You - The Parlor Mob](https://www.youtube.com/results?search_query=I+Want+to+See+You+-+The+Parlor+Mob)
+4) [Welcome To The Fold - Filter](https://www.youtube.com/results?search_query=Welcome+To+The+Fold+-+Filter)
+5) [Stars and Boulevards - Augustana](https://www.youtube.com/results?search_query=Stars+and+Boulevards+-+Augustana)
+6) [Under the Milky Way - The Church](https://www.youtube.com/results?search_query=Under+the+Milky+Way+-+The+Church)
+7) [I Won't See You Tonight Part 1 - Avenged Sevenfold](https://www.youtube.com/results?search_query=I+Won%27t+See+You+Tonight+Part+1+-+Avenged+Sevenfold)
 
 ### On Ashes, Embers, and Wine (2015)
-1) The Horizon is a Single Point - Three More Shallows
-2) Lost in Stereo - All Time Low
-3) Change - Churchill
-4) Rumored Nights - The Academy is...
-5) Alarm The Alarm - Write This Down
-6) Down And Out - Tantric
-7) No One - Trocadero
-8) Photograph - The Verve Pipe
-9) Shackled - Vertical Horizon
+1) [The Horizon is a Single Point - Three More Shallows](https://www.youtube.com/results?search_query=The+Horizon+is+a+Single+Point+-+Three+More+Shallows)
+2) [Lost in Stereo - All Time Low](https://www.youtube.com/results?search_query=Lost+in+Stereo+-+All+Time+Low)
+3) [Change - Churchill](https://www.youtube.com/results?search_query=Change+-+Churchill)
+4) [Rumored Nights - The Academy is...](https://www.youtube.com/results?search_query=Rumored+Nights+-+The+Academy+is...)
+5) [Alarm The Alarm - Write This Down](https://www.youtube.com/results?search_query=Alarm+The+Alarm+-+Write+This+Down)
+6) [Down And Out - Tantric](https://www.youtube.com/results?search_query=Down+And+Out+-+Tantric)
+7) [No One - Trocadero](https://www.youtube.com/results?search_query=No+One+-+Trocadero)
+8) [Photograph - The Verve Pipe](https://www.youtube.com/results?search_query=Photograph+-+The+Verve+Pipe)
+9) [Shackled - Vertical Horizon](https://www.youtube.com/results?search_query=Shackled+-+Vertical+Horizon)
 
 ### A Few Small Repairs (2014)
-1) Borne on the FM Waves of the Heart - Against Me
-2) The Sharpest Lives - My Chemical Romance 
-3) Love Interruption - Jack White
-4) Rexall - Dave Navarro
-5) The Way You Like It - Adema
-6) The Chemicals Between Us - Bush
-7) Inner Glow - Blue October
-8) Sometime Around Midnight - The Airborne Toxic Event
-9) A Drowning - How To Distory Angels
-10) The Druid's Prayer - Michele McLaughlin
-11) Tie up My Hands - Starsailor
-12) Fly As You Might - Julian Plenti
-13) April: White Belt Boys - Local H
-14) A Decade Under The Influence - Taking Back Sunday 
-15) Sleep Apnea - Chevelle
-16) Come With Me Now - KONGOS
-17) This Place is a Prison - The Postal Service
-18) Sunny Came Home - Shawn Colvin
-19) Above And Below - The Bravery
-20) There's No S0lution - Sun 41
-21) Breakfast At Tiffany's - Deep Blue Something
-22) We're In This Together - Nine Inch Nales
-23) Lost In Hollywood - System of a down
-24) Kiss Me I'm #!@'faced - Dropkick Murphys
+1) [Borne on the FM Waves of the Heart - Against Me](https://www.youtube.com/results?search_query=Borne+on+the+FM+Waves+of+the+Heart+-+Against+Me)
+2) [The Sharpest Lives - My Chemical Romance](https://www.youtube.com/results?search_query=The+Sharpest+Lives+-+My+Chemical+Romance)
+3) [Love Interruption - Jack White](https://www.youtube.com/results?search_query=Love+Interruption+-+Jack+White)
+4) [Rexall - Dave Navarro](https://www.youtube.com/results?search_query=Rexall+-+Dave+Navarro)
+5) [The Way You Like It - Adema](https://www.youtube.com/results?search_query=The+Way+You+Like+It+-+Adema)
+6) [The Chemicals Between Us - Bush](https://www.youtube.com/results?search_query=The+Chemicals+Between+Us+-+Bush)
+7) [Inner Glow - Blue October](https://www.youtube.com/results?search_query=Inner+Glow+-+Blue+October)
+8) [Sometime Around Midnight - The Airborne Toxic Event](https://www.youtube.com/results?search_query=Sometime+Around+Midnight+-+The+Airborne+Toxic+Event)
+9) [A Drowning - How To Distory Angels](https://www.youtube.com/results?search_query=A+Drowning+-+How+To+Distory+Angels)
+10) [The Druid's Prayer - Michele McLaughlin](https://www.youtube.com/results?search_query=The+Druid%27s+Prayer+-+Michele+McLaughlin)
+11) [Tie up My Hands - Starsailor](https://www.youtube.com/results?search_query=Tie+up+My+Hands+-+Starsailor)
+12) [Fly As You Might - Julian Plenti](https://www.youtube.com/results?search_query=Fly+As+You+Might+-+Julian+Plenti)
+13) [April: White Belt Boys - Local H](https://www.youtube.com/results?search_query=April%3A+White+Belt+Boys+-+Local+H)
+14) [A Decade Under The Influence - Taking Back Sunday](https://www.youtube.com/results?search_query=A+Decade+Under+The+Influence+-+Taking+Back+Sunday)
+15) [Sleep Apnea - Chevelle](https://www.youtube.com/results?search_query=Sleep+Apnea+-+Chevelle)
+16) [Come With Me Now - KONGOS](https://www.youtube.com/results?search_query=Come+With+Me+Now+-+KONGOS)
+17) [This Place is a Prison - The Postal Service](https://www.youtube.com/results?search_query=This+Place+is+a+Prison+-+The+Postal+Service)
+18) [Sunny Came Home - Shawn Colvin](https://www.youtube.com/results?search_query=Sunny+Came+Home+-+Shawn+Colvin)
+19) [Above And Below - The Bravery](https://www.youtube.com/results?search_query=Above+And+Below+-+The+Bravery)
+20) [There's No S0lution - Sun 41](https://www.youtube.com/results?search_query=There%27s+No+S0lution+-+Sun+41)
+21) [Breakfast At Tiffany's - Deep Blue Something](https://www.youtube.com/results?search_query=Breakfast+At+Tiffany%27s+-+Deep+Blue+Something)
+22) [We're In This Together - Nine Inch Nales](https://www.youtube.com/results?search_query=We%27re+In+This+Together+-+Nine+Inch+Nales)
+23) [Lost In Hollywood - System of a down](https://www.youtube.com/results?search_query=Lost+In+Hollywood+-+System+of+a+down)
+24) [Kiss Me I'm #!@'faced - Dropkick Murphys](https://www.youtube.com/results?search_query=Kiss+Me+I%27m+%23%21%40%27faced+-+Dropkick+Murphys)
