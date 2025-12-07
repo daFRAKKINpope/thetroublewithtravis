@@ -1,5 +1,5 @@
 +++
-date = '2025-11-15T20:16:04-06:00'
+date = '2025-12-04T20:16:04-06:00'
 draft = false
 title = 'Annual Albums'
 toc = true
@@ -42,6 +42,7 @@ Disk 1
 13) [Ghosts - Big Wreck](https://www.youtube.com/results?search_query=Ghosts+-+Big+Wreck)
 14) [Coming Home Timcast, Phil Labonte](https://www.youtube.com/results?search_query=Coming+Home+Timcast%2C+Phil+Labonte)
 15) [Momma Sed - Puscifer](https://www.youtube.com/results?search_query=Momma+Sed+-+Puscifer)
+
 Disk 2
 16) [The Feel Good Drag - Sparrow Sleeps, Anberlin](https://www.youtube.com/results?search_query=The+Feel+Good+Drag+-+Sparrow+Sleeps%2C+Anberlin)
 17) [Straight Forward - Evon Rose](https://www.youtube.com/results?search_query=Straight+Forward+-+Evon+Rose)
@@ -73,6 +74,7 @@ Disk 1
 10) [Wanted Man - The Last INternationale](https://www.youtube.com/results?search_query=Wanted+Man+-+The+Last+INternationale)
 11) [When You Break - Bear's Den](https://www.youtube.com/results?search_query=When+You+Break+-+Bear%27s+Den)
 12) [Half The World - Arcane Roots](https://www.youtube.com/results?search_query=Half+The+World+-+Arcane+Roots)
+
 Disk 2
 13) [Bullets - Archive](https://www.youtube.com/results?search_query=Bullets+-+Archive)
 14) [MANTRA - Bring Me The Horizon](https://www.youtube.com/results?search_query=MANTRA+-+Bring+Me+The+Horizon)
@@ -233,7 +235,7 @@ Disk 2
 6) [Under the Milky Way - The Church](https://www.youtube.com/results?search_query=Under+the+Milky+Way+-+The+Church)
 7) [I Won't See You Tonight Part 1 - Avenged Sevenfold](https://www.youtube.com/results?search_query=I+Won%27t+See+You+Tonight+Part+1+-+Avenged+Sevenfold)
 
-### On Ashes, Embers, and Wine (2015)
+### ...On Ashes, Embers, and Wine (2015)
 1) [The Horizon is a Single Point - Three More Shallows](https://www.youtube.com/results?search_query=The+Horizon+is+a+Single+Point+-+Three+More+Shallows)
 2) [Lost in Stereo - All Time Low](https://www.youtube.com/results?search_query=Lost+in+Stereo+-+All+Time+Low)
 3) [Change - Churchill](https://www.youtube.com/results?search_query=Change+-+Churchill)
