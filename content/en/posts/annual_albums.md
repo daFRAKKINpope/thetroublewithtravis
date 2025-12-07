@@ -24,7 +24,6 @@ Since 2014 I've been keeping a chronicle of albums. This is typically music that
 11) [What Kind of Song - Wild Rivers](https://www.youtube.com/results?search_query=What+Kind+of+Song+-+Wild+Rivers)
 12) [Lonely Bones - The Honest Heart Collective](https://www.youtube.com/results?search_query=Lonely+Bones+-+The+Honest+Heart+Collective)
 13) [The Next Storm - Frank Turner](https://www.youtube.com/results?search_query=The+Next+Storm+-+Frank+Turner)
-14) [Wait - M83](https://www.youtube.com/results?search_query=Wait+-+M83)
 
 ### Per Aspera Ad Astra (2024)
 Disk 1
