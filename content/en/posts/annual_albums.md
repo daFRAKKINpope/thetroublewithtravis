@@ -1,5 +1,5 @@
 +++
-date = '2025-12-04T20:16:04-06:00'
+date = '2025-12-24T16:09:04-06:00'
 draft = false
 title = 'Annual Albums'
 toc = true
@@ -19,11 +19,13 @@ Since 2014 I've been keeping a chronicle of albums. This is typically music that
 6) [Palliative Care - Sunliner](https://www.youtube.com/results?search_query=Palliative+Care+-+Sunliner)
 7) [No Light, No Light - 10 Years](https://www.youtube.com/results?search_query=No+Light%2C+No+Light+-+10+Years)
 8) [Ricochet - Rise Against](https://www.youtube.com/results?search_query=Ricochet+-+Rise+Against)
-9) [Rose Tint - Billy Sharp](https://www.youtube.com/results?search_query=Rose+Tint+-+Billy+Sharp)
+9) [Dark Signs - TokenGrass](https://www.youtube.com/results?search_query=Dark+Signs+-+TokenGrass)
 10) [We're Not In Orbit Yet... - Broken Bells, James Mercer, Danger Mouse](https://www.youtube.com/results?search_query=We%27re+Not+In+Orbit+Yet...+-+Broken+Bells%2C+James+Mercer%2C+Danger+Mouse)
-11) [What Kind of Song - Wild Rivers](https://www.youtube.com/results?search_query=What+Kind+of+Song+-+Wild+Rivers)
-12) [Lonely Bones - The Honest Heart Collective](https://www.youtube.com/results?search_query=Lonely+Bones+-+The+Honest+Heart+Collective)
-13) [The Next Storm - Frank Turner](https://www.youtube.com/results?search_query=The+Next+Storm+-+Frank+Turner)
+11) [The Lake - Typhoon](https://www.youtube.com/results?search_query=The+Lake+-+Typhoon)
+12) [Copper Colored Quiet - letlive.](https://wwwyoutube.com/results?search_query=Copper+Colored+Quiet+-+letlive.)
+13) [Lonely Bones - The Honest Heart Collective](https://www.youtube.com/results?search_query=Lonely+Bones+-+The+Honest+Heart+Collective)
+14) [The Next Storm - Frank Turner](https://www.youtube.com/results?search_query=The+Next+Storm+-+Frank+Turner)
+15) [Wait - M83](https://www.youtube.com/results?search_query=Wait+M83)
 
 ### Per Aspera Ad Astra (2024)
 Disk 1
