@@ -1,5 +1,5 @@
 +++
-date = '2025-12-24T16:09:04-06:00'
+date = '2025-12-28T16:09:04-06:00'
 draft = false
 title = 'Annual Albums'
 toc = true
@@ -22,10 +22,10 @@ Since 2014 I've been keeping a chronicle of albums. This is typically music that
 9) [Dark Signs - TokenGrass](https://www.youtube.com/results?search_query=Dark+Signs+-+TokenGrass)
 10) [We're Not In Orbit Yet... - Broken Bells, James Mercer, Danger Mouse](https://www.youtube.com/results?search_query=We%27re+Not+In+Orbit+Yet...+-+Broken+Bells%2C+James+Mercer%2C+Danger+Mouse)
 11) [The Lake - Typhoon](https://www.youtube.com/results?search_query=The+Lake+-+Typhoon)
-12) [Copper Colored Quiet - letlive.](https://wwwyoutube.com/results?search_query=Copper+Colored+Quiet+-+letlive.)
-13) [Lonely Bones - The Honest Heart Collective](https://www.youtube.com/results?search_query=Lonely+Bones+-+The+Honest+Heart+Collective)
-14) [The Next Storm - Frank Turner](https://www.youtube.com/results?search_query=The+Next+Storm+-+Frank+Turner)
-15) [Wait - M83](https://www.youtube.com/results?search_query=Wait+M83)
+12) [Copper Colored Quiet - letlive.](https://www.youtube.com/results?search_query=Copper+Colored+Quiet+-+letlive.)
+13) [Circles - Birds of Tokyo](https://www.youtube.com/results?search_query=Circles+-+Birds+of+Tokyo)
+14) [Lonely Bones - The Honest Heart Collective](https://www.youtube.com/results?search_query=Lonely+Bones+-+The+Honest+Heart+Collective)
+15) [The Next Storm - Frank Turner](https://www.youtube.com/results?search_query=The+Next+Storm+-+Frank+Turner)
 
 ### Per Aspera Ad Astra (2024)
 Disk 1
