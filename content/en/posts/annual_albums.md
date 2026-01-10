@@ -28,7 +28,6 @@ Since 2014 I've been keeping a chronicle of albums. This is typically music that
 15) [The Next Storm - Frank Turner](https://www.youtube.com/results?search_query=The+Next+Storm+-+Frank+Turner)
 
 ### Per Aspera Ad Astra (2024)
-Disk 1
 1) [HOPE - NF](https://www.youtube.com/results?search_query=HOPE+-+NF)
 2) [Stereo - The Watchmen](https://www.youtube.com/results?search_query=Stereo+-+The+Watchmen)
 3) [Brother Down - Sam Roberts Band](https://www.youtube.com/results?search_query=Brother+Down+-+Sam+Roberts+Band)
@@ -44,8 +43,6 @@ Disk 1
 13) [Ghosts - Big Wreck](https://www.youtube.com/results?search_query=Ghosts+-+Big+Wreck)
 14) [Coming Home Timcast, Phil Labonte](https://www.youtube.com/results?search_query=Coming+Home+Timcast%2C+Phil+Labonte)
 15) [Momma Sed - Puscifer](https://www.youtube.com/results?search_query=Momma+Sed+-+Puscifer)
-
-Disk 2
 16) [The Feel Good Drag - Sparrow Sleeps, Anberlin](https://www.youtube.com/results?search_query=The+Feel+Good+Drag+-+Sparrow+Sleeps%2C+Anberlin)
 17) [Straight Forward - Evon Rose](https://www.youtube.com/results?search_query=Straight+Forward+-+Evon+Rose)
 18) [Scared To Start - Michael Marcagi](https://www.youtube.com/results?search_query=Scared+To+Start+-+Michael+Marcagi)
@@ -76,8 +73,6 @@ Disk 1
 10) [Wanted Man - The Last INternationale](https://www.youtube.com/results?search_query=Wanted+Man+-+The+Last+INternationale)
 11) [When You Break - Bear's Den](https://www.youtube.com/results?search_query=When+You+Break+-+Bear%27s+Den)
 12) [Half The World - Arcane Roots](https://www.youtube.com/results?search_query=Half+The+World+-+Arcane+Roots)
-
-Disk 2
 13) [Bullets - Archive](https://www.youtube.com/results?search_query=Bullets+-+Archive)
 14) [MANTRA - Bring Me The Horizon](https://www.youtube.com/results?search_query=MANTRA+-+Bring+Me+The+Horizon)
 15) [IDWT$ - Bad Omens](https://www.youtube.com/results?search_query=IDWT%24+-+Bad+Omens)
