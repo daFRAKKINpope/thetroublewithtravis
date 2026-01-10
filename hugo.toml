@@ -103,7 +103,7 @@ publishDir = "docs"
   avatar = "profile.png" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "The Trouble with Travis"
-  name = "Sidharth R"
+  name = "Travis Templeton"
   description = "Because I got problems and now ya'll are gonna hear about it!"
 
 # Allow to override webmanifest options
