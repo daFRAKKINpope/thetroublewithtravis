@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Trouble with Travis</title>
-    <link>https://www.thetroublewithtravis.com/categories/</link>
+    <link>https://thetroublewithtravis.com/categories/</link>
     <description>Recent content in Categories on The Trouble with Travis</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="https://www.thetroublewithtravis.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="https://thetroublewithtravis.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
