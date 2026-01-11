@@ -7,7 +7,7 @@ tocopen = true
 +++
 
 ## Introduction
-Since 2014 I've been keeping a chronicle of albums. This is typically music that I find during that year, or that was relevant to me in some way personally. This page serves as a chronicle of those albums so the songs are not lost. As a rule, album titles and songs are locked after the year's end.
+Since 2014 I've been keeping a chronicle of albums. This is typically music that I find during that year, or that was relevant to me in some way personally. This page serves as a archive of those albums so the songs are not lost. As a rule, album titles and songs are locked after the year's end.
 
 ## Annual Albums
 ### Pathfinder (2025)
