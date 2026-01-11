@@ -41,7 +41,7 @@ Since 2014 I've been keeping a chronicle of albums. This is typically music that
 11) [SLEEP WHEN I'M DEAD - Jack Kays](https://www.youtube.com/results?search_query=SLEEP+WHEN+I%27M+DEAD+-+Jack+Kays)
 12) [Austin (Boots Stop Workin') - Dasha](https://www.youtube.com/results?search_query=Austin+%28Boots+Stop+Workin%27%29+-+Dasha)
 13) [Ghosts - Big Wreck](https://www.youtube.com/results?search_query=Ghosts+-+Big+Wreck)
-14) [Coming Home Timcast, Phil Labonte](https://www.youtube.com/results?search_query=Coming+Home+Timcast%2C+Phil+Labonte)
+14) [Coming Home Timcast - Phil Labonte](https://www.youtube.com/results?search_query=Coming+Home+Timcast%2C+Phil+Labonte)
 15) [Momma Sed - Puscifer](https://www.youtube.com/results?search_query=Momma+Sed+-+Puscifer)
 16) [The Feel Good Drag - Sparrow Sleeps, Anberlin](https://www.youtube.com/results?search_query=The+Feel+Good+Drag+-+Sparrow+Sleeps%2C+Anberlin)
 17) [Straight Forward - Evon Rose](https://www.youtube.com/results?search_query=Straight+Forward+-+Evon+Rose)
@@ -60,7 +60,6 @@ Since 2014 I've been keeping a chronicle of albums. This is typically music that
 30) [Leader Of The Landslide - The Lumineers](https://www.youtube.com/results?search_query=Leader+Of+The+Landslide+-+The+Lumineers)
 
 ### Muted (2023)
-Disk 1
 1) [Long Shot - Newton Faulkner](https://www.youtube.com/results?search_query=Long+Shot+-+Newton+Faulkner)
 2) [Humble Ledger (Gnostic States) - Eidola](https://www.youtube.com/results?search_query=Humble+Ledger+%28Gnostic+States%29+-+Eidola)
 3) [Funderal Singers - Califone](https://www.youtube.com/results?search_query=Funderal+Singers+-+Califone)
@@ -263,7 +262,7 @@ Disk 1
 17) [This Place is a Prison - The Postal Service](https://www.youtube.com/results?search_query=This+Place+is+a+Prison+-+The+Postal+Service)
 18) [Sunny Came Home - Shawn Colvin](https://www.youtube.com/results?search_query=Sunny+Came+Home+-+Shawn+Colvin)
 19) [Above And Below - The Bravery](https://www.youtube.com/results?search_query=Above+And+Below+-+The+Bravery)
-20) [There's No S0lution - Sun 41](https://www.youtube.com/results?search_query=There%27s+No+S0lution+-+Sun+41)
+20) [There's No Solution - Sun 41](https://www.youtube.com/results?search_query=There%27s+No+Solution+-+Sun+41)
 21) [Breakfast At Tiffany's - Deep Blue Something](https://www.youtube.com/results?search_query=Breakfast+At+Tiffany%27s+-+Deep+Blue+Something)
 22) [We're In This Together - Nine Inch Nales](https://www.youtube.com/results?search_query=We%27re+In+This+Together+-+Nine+Inch+Nales)
 23) [Lost In Hollywood - System of a down](https://www.youtube.com/results?search_query=Lost+In+Hollywood+-+System+of+a+down)
