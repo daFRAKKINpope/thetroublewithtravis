@@ -1,5 +1,5 @@
 +++
-date = '2025-12-28T16:09:04-06:00'
+date = '2026-06-17T20:00:00-06:00'
 draft = false
 title = 'Annual Albums'
 toc = true
@@ -10,6 +10,21 @@ tocopen = true
 Since 2014 I've been keeping a chronicle of albums. This is typically music that I find during that year, or that was relevant to me in some way personally. This page serves as a archive of those albums so the songs are not lost. As a rule, album titles and songs are locked after the year's end.
 
 ## Annual Albums
+### Until Failure (in progress, subject to change) (2026)
+1) Wanderer - Happy Landing
+2) Breathe (2am) - Anna Nalick
+3) (Can't You) Trip Like I Do - Filter & The Crystal Method
+4) Stars - Sixx:AM
+5) NERVOUS SYSTEM - Bad Omens & iRis.EXE
+6) The Welterweight - All Them Witches
+7) Sick Boi - Ren
+8) God Needs The Devil - Jonah Kagen
+9) Sweet Tooth - Scott Helman
+10) Don't Haunt This Place - The Rural Alberta Advantage
+11) Under The Milky Way - The Church 
+12) Pure Morning - Placebo 
+13) Blackbird Song - Lee DeWyze 
+
 ### Pathfinder (2025)
 1) [Fruit Bat - Of Monsters and Men](https://www.youtube.com/results?search_query=Fruit+Bat+-+Of+Monsters+and+Men)
 2) [Road Regrets - Dan Mangan](https://www.youtube.com/results?search_query=Road+Regrets+-+Dan+Mangan)
